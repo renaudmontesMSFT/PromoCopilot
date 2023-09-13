@@ -2,7 +2,7 @@
 # Welcome to the Promotion Readiness Copilot!
 
 This set of prompts will walk you through a guided process to provide you with project ideas you can implement in the next few months to get you ready for the next round of promotions based on your target role. The dialogue will be based on the [HR Role Library](https://microsoft.sharepoint.com/sites/HRweb/SitePages/RoleLibrary.aspx), your Core Priorities, and your Organization's Priorities. This is based on an article which can be found here [https://aka.ms/careergpt]
-**Note: This guide is focused on roles at Microsoft, if you are considering sharing confidential information please make sure you use Bing Enterprise experience**
+**Note: This guide is focused on roles at Microsoft, if you are considering sharing confidential information please make sure you use the Bing Enterprise experience.**
 
 **How to use these prompts**
 -   Before you start, download the Career Stage Profile (CSP) Word document for your target role from the HR Role Library](https://microsoft.sharepoint.com/sites/HRweb/SitePages/RoleLibrary.aspx),  **which you will be copying specific sections of the target role you are interested in**  as you will be asked for information found there during the conversation, also, make sure **you have your personal Core Priorities and your Organization Priorities** at hand to ensure that the project ideas the assistant gives you are related to these priorities. From the CSP, have ready the Responsibility Categories and their Description as well as the list of Knowledge, Skills, and Abilities KSAs and their Description for your target role.
