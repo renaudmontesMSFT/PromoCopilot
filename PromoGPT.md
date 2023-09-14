@@ -12,6 +12,14 @@ This set of prompts will walk you through a guided process to provide you with p
 -   -   **Note2 : If the conversation stops with no guidance on what to do next, try saying "proceed"**
 -   -   **Note3: To ensure you have a smooth experience when pasting information into the chat, please follow this article, as currently, Bing Enterprise supports only 2,000 characters, which *severely* affects the experience following the prompts in this guide:** [How to increase the character limit in Bing Chat experience | BigTechWire](https://www.bigtechwire.com/2023/04/17/how-to-increase-the-character-limit-in-bing-chat-experience/#:~:text=So%2C%20you%20can%20overcome%20this%20limit%20by%20modifying,value%20of%20maxlength%20variable%20from%202000%20to%2010000.) In our tests, we increased to 8,000 and the experience was satisfactory.
 
+Make sure when you go to Bing.com you see your corporate account and ensure you see the Protected legend next to your profile name:
+[image](https://github.com/renaudmontesMSFT/PromoCopilot/assets/100614151/f7bfb7a6-ee2f-488f-9a10-ac0dfda4be76)
+
+If you see your personal account please log off first:
+![image](https://github.com/renaudmontesMSFT/PromoCopilot/assets/100614151/08627804-f4f3-410a-8d34-24d7013697ef)
+
+
+
 **Feedback**
 Please submit your feedback to renaudm@microsoft.com
 
