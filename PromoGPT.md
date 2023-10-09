@@ -1,7 +1,7 @@
 
 # Welcome to the Promotion Readiness Copilot!
 
-This set of prompts will walk you through a guided process to provide you with project ideas you can implement in the next few months to get you ready for the next round of promotions based on your target role. The dialogue will be based on the [HR Role Library](https://microsoft.sharepoint.com/sites/HRweb/SitePages/RoleLibrary.aspx), your Core Priorities, and your Organization's Priorities. This is based on an article which can be found here [https://aka.ms/careergpt]
+This set of prompts will walk you through a guided process to provide you with project ideas you can implement in the next few months to get you ready for the next round of promotions based on your target role. The dialogue will be based on the [HR Role Library](https://microsoft.sharepoint.com/sites/HRweb/SitePages/RoleLibrary.aspx){:target="_blank"}, your Core Priorities, and your Organization's Priorities. This is based on an article which can be found here [https://aka.ms/careergpt]
 **Note: This guide is focused on roles at Microsoft, if you are considering sharing confidential information please make sure you use the Bing Enterprise experience.**
 
 **How to use these prompts**
@@ -13,7 +13,7 @@ You will be asked to authenticate with a Microsoft account
 Option 2:
 -   Log into Bing Chat  [https://www.bing.com/](https://www.bing.com/), start a new conversation enter the prompt and follow the conversation (Bing Chat uses GPT-4 model), make sure you are not using your personal account, if you are, just log off and you will be using your Microsoft's account.
 -   -   **Note: If you get a strange output for your report you can click regenerate to get a different format or ask for specific amendments**
--   -   **Note2 : If the conversation stops with no guidance on what to do next, try saying "proceed"**
+-   -   **Note2: If the conversation stops with no guidance on what to do next, try saying "proceed"**
 -   -   **Note3: To ensure you have a smooth experience when pasting information into the chat, please follow this article, as currently, Bing Enterprise supports only 2,000 characters, which *severely* affects the experience following the prompts in this guide:** [How to increase the character limit in Bing Chat experience | BigTechWire](https://www.bigtechwire.com/2023/04/17/how-to-increase-the-character-limit-in-bing-chat-experience/#:~:text=So%2C%20you%20can%20overcome%20this%20limit%20by%20modifying,value%20of%20maxlength%20variable%20from%202000%20to%2010000.) In our tests, we increased to 8,000 and the experience was satisfactory.
 
 Make sure when you go to Bing.com that you see the Bing Chat Enterprise experience and ensure you see the Protected legend next to your email:
