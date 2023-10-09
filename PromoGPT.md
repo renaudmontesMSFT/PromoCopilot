@@ -1,7 +1,7 @@
 
 # Welcome to the Promotion Readiness Copilot!
 
-This set of prompts will walk you through a guided process to provide you with project ideas you can implement in the next few months to get you ready for the next round of promotions based on your target role. The dialogue will be based on the [HR Role Library](https://microsoft.sharepoint.com/sites/HRweb/SitePages/RoleLibrary.aspx?target=_blank), your Core Priorities, and your Organization's Priorities. This is based on an article which can be found here [https://aka.ms/careergpt]
+This set of prompts will walk you through a guided process to provide you with project ideas you can implement in the next few months to get you ready for the next round of promotions based on your target role. The dialogue will be based on the [HR Role Library](https://microsoft.sharepoint.com/sites/HRweb/SitePages/RoleLibrary.aspx){:target="_blank" rel="noopener"}, your Core Priorities, and your Organization's Priorities. This is based on an article which can be found here [https://aka.ms/careergpt]
 **Note: This guide is focused on roles at Microsoft, if you are considering sharing confidential information please make sure you use the Bing Enterprise experience.**
 
 **How to use these prompts**
