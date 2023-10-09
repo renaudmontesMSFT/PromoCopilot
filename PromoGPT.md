@@ -7,6 +7,10 @@ This set of prompts will walk you through a guided process to provide you with p
 **How to use these prompts**
 -   Before you start, download the Career Stage Profile (CSP) Word document for your target role from the HR Role Library](https://microsoft.sharepoint.com/sites/HRweb/SitePages/RoleLibrary.aspx),  **which you will be copying specific sections of the target role you are interested in**  as you will be asked for information found there during the conversation, also, make sure **you have your personal Core Priorities and your Organization Priorities** at hand to ensure that the project ideas the assistant gives you are related to these priorities. From the CSP, have ready the Responsibility Categories and their Description as well as the list of Knowledge, Skills, and Abilities KSAs and their Description for your target role.
 
+Option 1: https://careercoach.azurewebsites.net/
+You will be asked to authenticate with a Microsoft account
+
+Option 2:
 -   Log into Bing Chat  [https://www.bing.com/](https://www.bing.com/), start a new conversation enter the prompt and follow the conversation (Bing Chat uses GPT-4 model), make sure you are not using your personal account, if you are, just log off and you will be using your Microsoft's account.
 -   -   **Note: If you get a strange output for your report you can click regenerate to get a different format or ask for specific amendments**
 -   -   **Note2 : If the conversation stops with no guidance on what to do next, try saying "proceed"**
@@ -23,7 +27,7 @@ If you see your personal account please log off first:
 **Feedback**
 Please submit your feedback to renaudm@microsoft.com
 
-### Prompts for the Project Ideas conversation
+### Prompts for the Project Ideas conversation, this iwhat you can capture for Option 2 above
 
 Act as a career coach, you will suggest innovative Project Ideas. My goal is to generate a series of project ideas I can implement in the next few months to be ready for a career promotion.
 
